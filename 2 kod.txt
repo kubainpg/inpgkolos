@@ -4,7 +4,7 @@
 #include<stdlib.h>
 #include<dos.h>
 #include<stdio.h>
-
+//kolejny komentarz
 enum dir direction;  
 /*indicates the direction of the shooter*/
 int fire(int xco,int yco,int &lr,int &tb,int &rl,int &bt);
